@@ -1,11 +1,11 @@
 
 
 # node-beginner
-
+The node beginner tutorial
 
 
 ## Usage
-
+run index.js. Server is in http://localhost:1337/
 
 
 ## Developing

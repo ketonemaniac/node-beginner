@@ -1,18 +1,21 @@
 {
   "name": "node-beginner",
   "version": "0.1.0",
-  "description": "node-beginner",
+  "description": "node-beginner tutorial scripts",
   "main": "hello-world-server.js",
   "scripts": {
     "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
   },
-  "repository": "",
+  "repository": { "type": "git", "url": "git@github.com:felixge/node-formidable.git" },
   "keywords": [
     "node.js",
     "eclipse",
     "nodeclipse"
   ],
-  "author": "",
+  "author": "keithtung",
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+	  "formidable": "1.0.17"
+  }
 }
